@@ -1,5 +1,5 @@
 # AddressBook
 
-I start this project to learn some basic concept from \"Python"\.
+I've started this project to learn some basic concepts from \"Python"\.
 
 This project is going to grow with my python Skills.
