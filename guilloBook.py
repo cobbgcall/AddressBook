@@ -9,7 +9,7 @@ modulesCMD.clearScreen(sysOps)
 
 while True:
 
-    print("This is my new application...\n")
+    print("Book is empty...\n")
 
     itemsNumber = modulesCMD.menu() #Get the number options in the modulesCMD
     
